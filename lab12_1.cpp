@@ -22,5 +22,6 @@ int main(){
     else if( x == 7 ) cout << "F";
     else if( x == 8 ) cout << "W";
     cout << " in this 261102.";
+    
     return 0;
 }
